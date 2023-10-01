@@ -1,7 +1,7 @@
 :root{
-    --blue:rgb(170, 153, 0);
+    --blue:rgb(0, 96, 170);
     --light-blue:rgb(0, 138, 230);
-
+    --red:red;
 }
 *{
     margin:0;
